@@ -29,6 +29,7 @@ output/
 outputs/
 figures/
 plots/
+README.private.md
 
 # IDE / OS files
 .vscode/
